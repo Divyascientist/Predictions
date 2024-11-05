@@ -1,0 +1,12 @@
+2024-11-05 09:42:23,217 - INFO -  !!!!!!!!!  Grid search 
+2024-11-05 09:42:23,217 - INFO - {'n_neighbors': 24}
+2024-11-05 09:42:26,350 - INFO -  !!!!!!!!!  Random search 
+2024-11-05 09:42:26,350 - INFO - {'n_neighbors': 13}
+2024-11-05 09:42:49,095 - INFO -  !!!!!!!!!  baiegin search 
+2024-11-05 09:42:49,095 - INFO - OrderedDict({'n_neighbors': 3})
+2024-11-05 09:54:42,872 - INFO -  !!!!!!!!!  Grid search 
+2024-11-05 09:54:42,872 - INFO - {'n_neighbors': 24}
+2024-11-05 09:54:45,907 - INFO -  !!!!!!!!!  Random search 
+2024-11-05 09:54:45,907 - INFO - {'n_neighbors': 13}
+2024-11-05 09:55:05,978 - INFO -  !!!!!!!!!  baiegin search 
+2024-11-05 09:55:05,978 - INFO - OrderedDict({'n_neighbors': 3})
